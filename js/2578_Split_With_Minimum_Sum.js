@@ -1,8 +1,6 @@
 // B"H
 // https://leetcode.com/problems/split-with-minimum-sum/
 
-
-
 /**
  * @param {number} num
  * @return {number}

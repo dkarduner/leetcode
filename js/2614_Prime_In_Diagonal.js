@@ -1,3 +1,6 @@
+// B"H
+// https://leetcode.com/problems/prime-in-diagonal/
+
 /**
  * @param {number[][]} nums
  * @return {number}

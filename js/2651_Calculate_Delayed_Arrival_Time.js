@@ -1,5 +1,5 @@
 // B"H
-// problem in: https://leetcode.com/problems/calculate-delayed-arrival-time/
+// https://leetcode.com/problems/calculate-delayed-arrival-time/
 
 /**
  * @param {number} arrivalTime

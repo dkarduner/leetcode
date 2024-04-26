@@ -1,7 +1,11 @@
+// B"H
+// https://leetcode.com/problems/counter/
+
 /**
  * @param {number} n
  * @return {Function} counter
  */
+
 var createCounter = function(n) {
     
     return function() {
